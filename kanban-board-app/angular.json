@@ -111,6 +111,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "kanban-board-app"
+    }
+  },
+  "defaultProject": "kanban-board-app",
+  "cli": {
+    "analytics": "34f7344a-4300-414c-9887-d0833ede7dba"
+  }
 }
